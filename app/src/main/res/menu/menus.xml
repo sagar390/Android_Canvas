@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.netsurfnetwork.android.activity.CyclewiseTargetActivity">
+
+
+<item
+
+    android:id="@+id/clear"
+    android:title="Clear"
+    android:icon="@android:drawable/ic_menu_revert"
+    android:visible="true"/>
+
+
+
+    <item
+
+        android:id="@+id/draw"
+        android:title="Draw View"
+        android:icon="@android:drawable/ic_menu_revert"
+        android:visible="true"/>
+
+
+</menu>
